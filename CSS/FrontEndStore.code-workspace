@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"name": "FrontEndStore",
+			"path": "../../FrontEndStore"
+		},
+		{
+			"name": "freelancer_inicio",
+			"path": "../../freelancer_inicio"
+		},
+		{
+			"path": "../../PatronesRWD"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "blogdecafe"
+	}
+}
